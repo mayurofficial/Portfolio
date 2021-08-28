@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mayurofficial/MayurPortfolio/static/css/main.8bb65cef.chunk.css",
+    "main.js": "/mayurofficial/MayurPortfolio/static/js/main.fc864f32.chunk.js",
+    "main.js.map": "/mayurofficial/MayurPortfolio/static/js/main.fc864f32.chunk.js.map",
+    "runtime-main.js": "/mayurofficial/MayurPortfolio/static/js/runtime-main.be237def.js",
+    "runtime-main.js.map": "/mayurofficial/MayurPortfolio/static/js/runtime-main.be237def.js.map",
+    "static/js/2.6164ea9c.chunk.js": "/mayurofficial/MayurPortfolio/static/js/2.6164ea9c.chunk.js",
+    "static/js/2.6164ea9c.chunk.js.map": "/mayurofficial/MayurPortfolio/static/js/2.6164ea9c.chunk.js.map",
+    "index.html": "/mayurofficial/MayurPortfolio/index.html",
+    "static/css/main.8bb65cef.chunk.css.map": "/mayurofficial/MayurPortfolio/static/css/main.8bb65cef.chunk.css.map",
+    "static/js/2.6164ea9c.chunk.js.LICENSE.txt": "/mayurofficial/MayurPortfolio/static/js/2.6164ea9c.chunk.js.LICENSE.txt",
+    "static/media/book.baee980c.png": "/mayurofficial/MayurPortfolio/static/media/book.baee980c.png",
+    "static/media/hero.ed5b667d.svg": "/mayurofficial/MayurPortfolio/static/media/hero.ed5b667d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be237def.js",
+    "static/js/2.6164ea9c.chunk.js",
+    "static/css/main.8bb65cef.chunk.css",
+    "static/js/main.fc864f32.chunk.js"
+  ]
+}
